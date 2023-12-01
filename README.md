@@ -13,6 +13,8 @@
 
 [Найди разработчика](https://artaleal.github.io/dev-finder/)
 
-## Установка `npm i`
+## Запуск локально:
 
-## Запуск `npm start`
+### Установка `npm i`
+
+### Запуск `npm start`
