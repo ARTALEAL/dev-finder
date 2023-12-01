@@ -10,7 +10,7 @@ export const defaultUser: LocalGitHubUser = {
   location: 'St. Petersburg',
   twitter: 'blocked',
   repos: 30,
-  followers: 6,
+  followers: 686,
   following: 22,
   created: '2022-07-05T21:21:31Z',
   bio: 'Frontend Developer',
