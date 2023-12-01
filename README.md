@@ -8,3 +8,11 @@
 - TypeScript
 - SCSS
 - generate-react-cli
+
+## Ссылка на деплой
+
+[Найди разработчика](https://artaleal.github.io/dev-finder/)
+
+## Установка `npm i`
+
+## Запуск `npm start`
